@@ -1,0 +1,2 @@
+# go
+CDN PIC
